@@ -1,0 +1,18 @@
+[
+  {
+    "model": "VGG16",
+    "validation_accuracy": 0.43333333333333335,
+    "precision_macro": 0.2976827094474153,
+    "recall_macro": 0.43333333333333335,
+    "f1_macro": 0.34920634920634913,
+    "epochs": 5
+  },
+  {
+    "model": "ResNet50",
+    "validation_accuracy": 0.8666666666666667,
+    "precision_macro": 0.869023569023569,
+    "recall_macro": 0.8666666666666667,
+    "f1_macro": 0.8664160401002506,
+    "epochs": 5
+  }
+]

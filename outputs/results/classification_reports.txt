@@ -1,0 +1,24 @@
+===== VGG16 =====
+              precision    recall  f1-score   support
+
+        cats       0.53      0.90      0.67        10
+        dogs       0.36      0.40      0.38        10
+      horses       0.00      0.00      0.00        10
+
+    accuracy                           0.43        30
+   macro avg       0.30      0.43      0.35        30
+weighted avg       0.30      0.43      0.35        30
+
+
+===== ResNet50 =====
+              precision    recall  f1-score   support
+
+        cats       0.90      0.90      0.90        10
+        dogs       0.82      0.90      0.86        10
+      horses       0.89      0.80      0.84        10
+
+    accuracy                           0.87        30
+   macro avg       0.87      0.87      0.87        30
+weighted avg       0.87      0.87      0.87        30
+
+
